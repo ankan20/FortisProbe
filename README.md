@@ -79,4 +79,7 @@ CSRF - Severity: None
 
 
 ## 🎥 Demo Video
-[▶ Watch Demo](assets/FortisProbe.mp4)
+## 🎥 Demo Video
+
+[▶ Watch the demo video here](https://drive.google.com/file/d/1yqqbPj4S81eR_1GNoKQKCUfpTnyHz1uY/view?usp=sharing)
+
